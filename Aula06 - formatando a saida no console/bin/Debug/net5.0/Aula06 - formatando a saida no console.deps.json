@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Aula06 - formatando a saida no console/1.0.0": {
+        "runtime": {
+          "Aula06 - formatando a saida no console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula06 - formatando a saida no console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\obj\Debug\net5.0\Aula15 - Switch case.csprojAssemblyReference.cache
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\obj\Debug\net5.0\Aula15 - Switch case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\obj\Debug\net5.0\Aula15 - Switch case.AssemblyInfoInputs.cache
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\obj\Debug\net5.0\Aula15 - Switch case.AssemblyInfo.cs
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\obj\Debug\net5.0\Aula15 - Switch case.csproj.CoreCompileInputs.cache
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\bin\Debug\net5.0\Aula15 - Switch case.exe
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\bin\Debug\net5.0\Aula15 - Switch case.deps.json
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\bin\Debug\net5.0\Aula15 - Switch case.runtimeconfig.json
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\bin\Debug\net5.0\Aula15 - Switch case.runtimeconfig.dev.json
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\bin\Debug\net5.0\Aula15 - Switch case.dll
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\bin\Debug\net5.0\ref\Aula15 - Switch case.dll
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\bin\Debug\net5.0\Aula15 - Switch case.pdb
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\obj\Debug\net5.0\Aula15 - Switch case.dll
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\obj\Debug\net5.0\ref\Aula15 - Switch case.dll
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\obj\Debug\net5.0\Aula15 - Switch case.pdb
+C:\Users\guifg\Desktop\Pasta da Herica\Aula15 - Switch case\obj\Debug\net5.0\Aula15 - Switch case.genruntimeconfig.cache

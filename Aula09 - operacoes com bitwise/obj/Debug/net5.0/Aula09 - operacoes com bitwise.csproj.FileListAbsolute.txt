@@ -1,0 +1,16 @@
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\obj\Debug\net5.0\Aula09 - operacoes com bitwise.csprojAssemblyReference.cache
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\obj\Debug\net5.0\Aula09 - operacoes com bitwise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\obj\Debug\net5.0\Aula09 - operacoes com bitwise.AssemblyInfoInputs.cache
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\obj\Debug\net5.0\Aula09 - operacoes com bitwise.AssemblyInfo.cs
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\obj\Debug\net5.0\Aula09 - operacoes com bitwise.csproj.CoreCompileInputs.cache
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\bin\Debug\net5.0\Aula09 - operacoes com bitwise.exe
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\bin\Debug\net5.0\Aula09 - operacoes com bitwise.deps.json
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\bin\Debug\net5.0\Aula09 - operacoes com bitwise.runtimeconfig.json
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\bin\Debug\net5.0\Aula09 - operacoes com bitwise.runtimeconfig.dev.json
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\bin\Debug\net5.0\Aula09 - operacoes com bitwise.dll
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\bin\Debug\net5.0\ref\Aula09 - operacoes com bitwise.dll
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\bin\Debug\net5.0\Aula09 - operacoes com bitwise.pdb
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\obj\Debug\net5.0\Aula09 - operacoes com bitwise.dll
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\obj\Debug\net5.0\ref\Aula09 - operacoes com bitwise.dll
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\obj\Debug\net5.0\Aula09 - operacoes com bitwise.pdb
+C:\Users\heric\Documents\estudos-dotnet\Aula09 - operacoes com bitwise\obj\Debug\net5.0\Aula09 - operacoes com bitwise.genruntimeconfig.cache

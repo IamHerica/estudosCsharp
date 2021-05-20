@@ -1,0 +1,16 @@
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\bin\Debug\net5.0\Aula14 - if aninhado.exe
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\bin\Debug\net5.0\Aula14 - if aninhado.deps.json
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\bin\Debug\net5.0\Aula14 - if aninhado.runtimeconfig.json
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\bin\Debug\net5.0\Aula14 - if aninhado.runtimeconfig.dev.json
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\bin\Debug\net5.0\Aula14 - if aninhado.dll
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\bin\Debug\net5.0\ref\Aula14 - if aninhado.dll
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\bin\Debug\net5.0\Aula14 - if aninhado.pdb
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\obj\Debug\net5.0\Aula14 - if aninhado.csprojAssemblyReference.cache
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\obj\Debug\net5.0\Aula14 - if aninhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\obj\Debug\net5.0\Aula14 - if aninhado.AssemblyInfoInputs.cache
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\obj\Debug\net5.0\Aula14 - if aninhado.AssemblyInfo.cs
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\obj\Debug\net5.0\Aula14 - if aninhado.csproj.CoreCompileInputs.cache
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\obj\Debug\net5.0\Aula14 - if aninhado.dll
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\obj\Debug\net5.0\ref\Aula14 - if aninhado.dll
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\obj\Debug\net5.0\Aula14 - if aninhado.pdb
+C:\Users\guifg\Desktop\Pasta da Herica\Aula14 - if aninhado\obj\Debug\net5.0\Aula14 - if aninhado.genruntimeconfig.cache

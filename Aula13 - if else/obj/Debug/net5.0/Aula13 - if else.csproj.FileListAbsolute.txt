@@ -1,0 +1,16 @@
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\bin\Debug\net5.0\Aula13 - if else.exe
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\bin\Debug\net5.0\Aula13 - if else.deps.json
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\bin\Debug\net5.0\Aula13 - if else.runtimeconfig.json
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\bin\Debug\net5.0\Aula13 - if else.runtimeconfig.dev.json
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\bin\Debug\net5.0\Aula13 - if else.dll
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\bin\Debug\net5.0\ref\Aula13 - if else.dll
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\bin\Debug\net5.0\Aula13 - if else.pdb
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\obj\Debug\net5.0\Aula13 - if else.csprojAssemblyReference.cache
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\obj\Debug\net5.0\Aula13 - if else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\obj\Debug\net5.0\Aula13 - if else.AssemblyInfoInputs.cache
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\obj\Debug\net5.0\Aula13 - if else.AssemblyInfo.cs
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\obj\Debug\net5.0\Aula13 - if else.csproj.CoreCompileInputs.cache
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\obj\Debug\net5.0\Aula13 - if else.dll
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\obj\Debug\net5.0\ref\Aula13 - if else.dll
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\obj\Debug\net5.0\Aula13 - if else.pdb
+C:\Users\guifg\Desktop\Pasta da Herica\Aula13 - if else\obj\Debug\net5.0\Aula13 - if else.genruntimeconfig.cache

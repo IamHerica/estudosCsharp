@@ -1,0 +1,16 @@
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\bin\Debug\net5.0\Aula11 - conversao de tipos (typecast).exe
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\bin\Debug\net5.0\Aula11 - conversao de tipos (typecast).deps.json
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\bin\Debug\net5.0\Aula11 - conversao de tipos (typecast).runtimeconfig.json
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\bin\Debug\net5.0\Aula11 - conversao de tipos (typecast).runtimeconfig.dev.json
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\bin\Debug\net5.0\Aula11 - conversao de tipos (typecast).dll
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\bin\Debug\net5.0\ref\Aula11 - conversao de tipos (typecast).dll
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\bin\Debug\net5.0\Aula11 - conversao de tipos (typecast).pdb
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\obj\Debug\net5.0\Aula11 - conversao de tipos (typecast).csprojAssemblyReference.cache
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\obj\Debug\net5.0\Aula11 - conversao de tipos (typecast).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\obj\Debug\net5.0\Aula11 - conversao de tipos (typecast).AssemblyInfoInputs.cache
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\obj\Debug\net5.0\Aula11 - conversao de tipos (typecast).AssemblyInfo.cs
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\obj\Debug\net5.0\Aula11 - conversao de tipos (typecast).csproj.CoreCompileInputs.cache
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\obj\Debug\net5.0\Aula11 - conversao de tipos (typecast).dll
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\obj\Debug\net5.0\ref\Aula11 - conversao de tipos (typecast).dll
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\obj\Debug\net5.0\Aula11 - conversao de tipos (typecast).pdb
+C:\Users\heric\Documents\estudos-dotnet\Aula11 - conversao de tipos (typecast)\obj\Debug\net5.0\Aula11 - conversao de tipos (typecast).genruntimeconfig.cache

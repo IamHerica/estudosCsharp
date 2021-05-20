@@ -1,0 +1,16 @@
+C:\Users\heric\Documents\estudos-dotnet\Aula05\bin\Debug\net5.0\Aula05.exe
+C:\Users\heric\Documents\estudos-dotnet\Aula05\bin\Debug\net5.0\Aula05.deps.json
+C:\Users\heric\Documents\estudos-dotnet\Aula05\bin\Debug\net5.0\Aula05.runtimeconfig.json
+C:\Users\heric\Documents\estudos-dotnet\Aula05\bin\Debug\net5.0\Aula05.runtimeconfig.dev.json
+C:\Users\heric\Documents\estudos-dotnet\Aula05\bin\Debug\net5.0\Aula05.dll
+C:\Users\heric\Documents\estudos-dotnet\Aula05\bin\Debug\net5.0\ref\Aula05.dll
+C:\Users\heric\Documents\estudos-dotnet\Aula05\bin\Debug\net5.0\Aula05.pdb
+C:\Users\heric\Documents\estudos-dotnet\Aula05\obj\Debug\net5.0\Aula05.csprojAssemblyReference.cache
+C:\Users\heric\Documents\estudos-dotnet\Aula05\obj\Debug\net5.0\Aula05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heric\Documents\estudos-dotnet\Aula05\obj\Debug\net5.0\Aula05.AssemblyInfoInputs.cache
+C:\Users\heric\Documents\estudos-dotnet\Aula05\obj\Debug\net5.0\Aula05.AssemblyInfo.cs
+C:\Users\heric\Documents\estudos-dotnet\Aula05\obj\Debug\net5.0\Aula05.csproj.CoreCompileInputs.cache
+C:\Users\heric\Documents\estudos-dotnet\Aula05\obj\Debug\net5.0\Aula05.dll
+C:\Users\heric\Documents\estudos-dotnet\Aula05\obj\Debug\net5.0\ref\Aula05.dll
+C:\Users\heric\Documents\estudos-dotnet\Aula05\obj\Debug\net5.0\Aula05.pdb
+C:\Users\heric\Documents\estudos-dotnet\Aula05\obj\Debug\net5.0\Aula05.genruntimeconfig.cache
