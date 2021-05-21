@@ -1,0 +1,16 @@
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\bin\Debug\net5.0\Aula18 - Matrizes.exe
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\bin\Debug\net5.0\Aula18 - Matrizes.deps.json
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\bin\Debug\net5.0\Aula18 - Matrizes.runtimeconfig.json
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\bin\Debug\net5.0\Aula18 - Matrizes.runtimeconfig.dev.json
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\bin\Debug\net5.0\Aula18 - Matrizes.dll
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\bin\Debug\net5.0\ref\Aula18 - Matrizes.dll
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\bin\Debug\net5.0\Aula18 - Matrizes.pdb
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\obj\Debug\net5.0\Aula18 - Matrizes.csprojAssemblyReference.cache
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\obj\Debug\net5.0\Aula18 - Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\obj\Debug\net5.0\Aula18 - Matrizes.AssemblyInfoInputs.cache
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\obj\Debug\net5.0\Aula18 - Matrizes.AssemblyInfo.cs
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\obj\Debug\net5.0\Aula18 - Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\obj\Debug\net5.0\Aula18 - Matrizes.dll
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\obj\Debug\net5.0\ref\Aula18 - Matrizes.dll
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\obj\Debug\net5.0\Aula18 - Matrizes.pdb
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula18 - Matrizes\obj\Debug\net5.0\Aula18 - Matrizes.genruntimeconfig.cache
