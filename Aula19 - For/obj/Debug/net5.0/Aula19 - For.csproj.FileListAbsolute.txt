@@ -1,0 +1,16 @@
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\bin\Debug\net5.0\Aula19 - For.exe
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\bin\Debug\net5.0\Aula19 - For.deps.json
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\bin\Debug\net5.0\Aula19 - For.runtimeconfig.json
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\bin\Debug\net5.0\Aula19 - For.runtimeconfig.dev.json
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\bin\Debug\net5.0\Aula19 - For.dll
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\bin\Debug\net5.0\ref\Aula19 - For.dll
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\bin\Debug\net5.0\Aula19 - For.pdb
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\obj\Debug\net5.0\Aula19 - For.csprojAssemblyReference.cache
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\obj\Debug\net5.0\Aula19 - For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\obj\Debug\net5.0\Aula19 - For.AssemblyInfoInputs.cache
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\obj\Debug\net5.0\Aula19 - For.AssemblyInfo.cs
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\obj\Debug\net5.0\Aula19 - For.csproj.CoreCompileInputs.cache
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\obj\Debug\net5.0\Aula19 - For.dll
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\obj\Debug\net5.0\ref\Aula19 - For.dll
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\obj\Debug\net5.0\Aula19 - For.pdb
+C:\Users\guifg\Documents\GitHub\estudosdotnet\Aula19 - For\obj\Debug\net5.0\Aula19 - For.genruntimeconfig.cache
