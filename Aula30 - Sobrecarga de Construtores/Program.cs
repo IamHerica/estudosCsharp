@@ -12,7 +12,7 @@ namespace Aula30{
         }
 
         }
-        public  Jogador(string n) //quando passar o nome jogador
+        public Jogador(string n) //quando passar o nome jogador
         {
             energy = 100;
             alive = true;
@@ -31,17 +31,16 @@ namespace Aula30{
             nome = n;
         }
 
-        public void info(){
+        public void info()
+        {
             Console.WriteLine($"Nome do jogador: {nome}");
             Console.WriteLine($"Energia do jogador: {energy}");
             Console.WriteLine($"Situação do jogador: {alive}\n");
         }
 
-
-    }
-    class Program
-    {
-        static void Main(string[] args)
+        class Program
+        {
+        static void Main()
         {
 
             Jogador j1 = new Jogador();
@@ -58,5 +57,7 @@ namespace Aula30{
         }
         
     }
+    }
+    
 
 
