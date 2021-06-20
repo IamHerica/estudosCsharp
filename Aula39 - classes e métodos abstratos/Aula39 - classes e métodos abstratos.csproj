@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Aula39___classes_e_métodos_abstratos</RootNamespace>
+  </PropertyGroup>
+
+</Project>
